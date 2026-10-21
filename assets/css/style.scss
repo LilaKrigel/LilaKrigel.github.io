@@ -2,29 +2,43 @@
 ---
 @import "{{ site.theme }}";
 
-/* Change the header background to a soft, warm beige */
+/* 1. Soft, warm off-white background for the entire page */
+body {
+  background-color: #FDFCF9; 
+  color: #3A3532; /* Soft dark brown/grey for high readability */
+}
+
+/* 2. Remove the blocky background from the sidebar header */
 header {
-  background-color: #E8E0D5; 
+  background-color: transparent !important;
   background-image: none; 
 }
 
-/* Use dark espresso brown for the header text for high contrast */
-header h1, header p {
+/* 3. Style the sidebar text cleanly */
+header h1 {
   color: #4A3F35; 
+  font-weight: 700;
+}
+header p {
+  color: #6E5C4F;
 }
 
-/* Use a muted taupe/brown for the section headings */
+/* 4. Add professional divider lines under your main headings */
 section h1, section h2, section h3 {
-  color: #6E5C4F; 
+  color: #4A3F35; 
+  border-bottom: 1px solid #DED6CC; 
+  padding-bottom: 8px;
+  margin-top: 30px;
 }
 
-/* Use a warm earthy caramel/terracotta for links */
+/* 5. Clean, earthy links */
 a {
-  color: #9C6644; 
+  color: #8C5A35; 
+  text-decoration: none;
+  font-weight: 500;
 }
 
-/* Slightly darker brown when you hover over a link */
 a:hover {
   text-decoration: underline;
-  color: #7F4F24; 
+  color: #5C3A21; 
 }
