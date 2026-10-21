@@ -1,6 +1,7 @@
 # Welcome to My Academic Portfolio
 
-Hi, I am Lila Krigel, a PhD student in the [Igor Ulitsky lab](https://www.weizmann.ac.il/Biological_Regulation/IgorUlitsky/). My research bridges the gap between experimental biology and computational genomics.
+Hi, I am Liliya Krigel, a PhD student in the [Igor Ulitsky lab](https://www.weizmann.ac.il/Biological_Regulation/IgorUlitsky/). 
+My research bridges the gap between experimental biology and computational genomics.
 
 ## Academic Background
 
