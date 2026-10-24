@@ -18,3 +18,9 @@ Currently, our research is dedicated to identifying and characterizing lncRNAs a
 ## Course Goals
 
 I am currently taking the *Programming in Python using AI* course. My main goal is to improve my AI skills for Python programming so I can write better, more efficient scripts to support my computational research and evolutionary analyses.
+
+
+<div style="text-align: center; margin: 30px 0;">
+  <img src="assets/images/coding-cat.png" alt="An illustration of a cat writing code on a laptop" style="max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #DED6CC; box-shadow: 0 4px 6px rgba(0,0,0,0.05); max-height: 350px;">
+  <p style="font-style: italic; color: #6E5C4F; font-size: 0.9em; margin-top: 8px;">My python-programming alter ego, courtesy of our AI-assisted workflows.</p>
+</div>
